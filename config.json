@@ -1,1 +1,1 @@
-{"globalParameters":{},"harvesterParameters":{"from":"","until":"","hostUrl":"http://ws.pangaea.de/oai/provider","metadataPrefix":"datacite3"}}
+{"globalParameters":{"persistCache": false},"harvesterParameters":{"from":"","until":"","hostUrl":"http://ws.pangaea.de/oai/provider","metadataPrefix":"datacite3"}}
