@@ -1,1 +1,1 @@
-{"OaiPmhETL":{"parameters":[{"key":"hostUrl","value":"http://ws.pangaea.de/oai/provider","type":"StringParameter"},{"key":"metadataPrefix","value":"datacite3","type":"StringParameter"}]}}
+{"OaiPmhETL":{"parameters":[{"key":"hostUrl","value":"http://ws.pangaea.de/oai/provider","type":"StringParameter"},{"key":"logoUrl","value":"https://www.pangaea.de/assets/v.67baca222346bb8d6967b8a0e1c22361/layout-images/pangaea-logo.png","type":"StringParameter"},{"key":"metadataPrefix","value":"datacite3","type":"StringParameter"}]}}
